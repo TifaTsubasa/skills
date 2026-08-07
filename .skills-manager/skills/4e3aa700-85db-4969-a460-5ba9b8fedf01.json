@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4e3aa700-85db-4969-a460-5ba9b8fedf01",
+  "path": "ios-debugger-agent",
+  "path_key": "ios-debugger-agent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

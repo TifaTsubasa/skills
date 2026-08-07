@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b49a4529-1064-4fb4-b05f-19881bda2ae7",
+  "path": "staged-changes-summary",
+  "path_key": "staged-changes-summary",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

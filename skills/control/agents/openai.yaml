@@ -1,0 +1,7 @@
+interface:
+  display_name: "Control"
+  short_description: "Manual control for staged coding tasks"
+  default_prompt: "Use $control to manage a complex coding task across design, code, and implementation modes under elaboration/."
+
+policy:
+  allow_implicit_invocation: false

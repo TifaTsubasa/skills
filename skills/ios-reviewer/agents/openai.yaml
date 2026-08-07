@@ -1,0 +1,7 @@
+interface:
+  display_name: "iOS Reviewer"
+  short_description: "Manual iOS architecture review"
+  default_prompt: "Use $ios-reviewer to review the specified iOS Swift code or current workspace changes."
+
+policy:
+  allow_implicit_invocation: false

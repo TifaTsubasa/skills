@@ -1,0 +1,7 @@
+interface:
+  display_name: "Best iOS"
+  short_description: "Manual iOS architecture workflows"
+  default_prompt: "Use $best-ios to refactor, review, or fix the specified iOS code under the repository architecture rules."
+
+policy:
+  allow_implicit_invocation: false
