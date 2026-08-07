@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f1c74ec6-5ec5-450a-872a-f80f6a330ccc",
+  "path": "buddy-log-api-query",
+  "path_key": "buddy-log-api-query",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

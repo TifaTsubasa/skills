@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3af96154-cf0b-4d55-b079-00de3727849e",
+  "path": "best-ios",
+  "path_key": "best-ios",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

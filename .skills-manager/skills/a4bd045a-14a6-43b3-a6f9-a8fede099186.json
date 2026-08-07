@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a4bd045a-14a6-43b3-a6f9-a8fede099186",
+  "path": "photos-log-reader",
+  "path_key": "photos-log-reader",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

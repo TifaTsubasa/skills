@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "327afaec-012c-4e57-886b-dc3f95e0390f",
+  "path": "swift-plan-conventions",
+  "path_key": "swift-plan-conventions",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

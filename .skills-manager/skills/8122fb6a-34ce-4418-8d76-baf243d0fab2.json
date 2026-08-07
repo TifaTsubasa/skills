@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8122fb6a-34ce-4418-8d76-baf243d0fab2",
+  "path": "analyze-event-flow",
+  "path_key": "analyze-event-flow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

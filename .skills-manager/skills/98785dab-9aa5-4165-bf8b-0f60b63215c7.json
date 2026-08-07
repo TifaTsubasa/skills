@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "98785dab-9aa5-4165-bf8b-0f60b63215c7",
+  "path": "update-release-notes",
+  "path_key": "update-release-notes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

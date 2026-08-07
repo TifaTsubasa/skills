@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "da83d5fe-12f5-4128-a19a-23a9e8df0035",
+  "path": "ios-reviewer",
+  "path_key": "ios-reviewer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

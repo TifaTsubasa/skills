@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dd6f0726-eeef-430a-a78d-da41fa836a81",
+  "path": "run-xphotos-device",
+  "path_key": "run-xphotos-device",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

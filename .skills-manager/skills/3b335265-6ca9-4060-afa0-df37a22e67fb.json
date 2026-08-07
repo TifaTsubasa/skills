@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b335265-6ca9-4060-afa0-df37a22e67fb",
+  "path": "use-fastlane",
+  "path_key": "use-fastlane",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

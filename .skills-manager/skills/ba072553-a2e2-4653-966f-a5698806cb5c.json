@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ba072553-a2e2-4653-966f-a5698806cb5c",
+  "path": "diff-summary",
+  "path_key": "diff-summary",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

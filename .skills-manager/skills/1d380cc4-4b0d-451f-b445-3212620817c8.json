@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1d380cc4-4b0d-451f-b445-3212620817c8",
+  "path": "i18n-ios-edit",
+  "path_key": "i18n-ios-edit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

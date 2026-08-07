@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "121b3aa5-a150-4d6d-b9e0-d35d802666b0",
+  "path": "app-store-preflight-skills",
+  "path_key": "app-store-preflight-skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eb254180-5411-4c4b-b2e0-c5246d0919e2",
+  "path": "bdd-breakdown",
+  "path_key": "bdd-breakdown",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
